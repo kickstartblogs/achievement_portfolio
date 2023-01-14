@@ -20,12 +20,7 @@ function Home() {
           }}
         >
           <p id="Heading_para">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas
-            quos quam iste dolores dolorum sint consectetur consequatur dolorem,
-            corrupti sequi, itaque molestias, fuga sapiente laudantium quo hic
-            nesciunt temporibus reprehenderit magni omnis placeat? Quia
-            voluptate, fugit ipsa culpa, tempore obcaecati, quae corporis
-            dolorum atque saepe harum repellat architecto voluptatibus non.
+            hello My name is Atharv singh  and I study in class 12th as of right now.  ever since I was a young kid I have seen  my cousins be a perfect child.  as a younggling  I had the mentality to  achieve and make myself and my family proud.  coming at age of 12 I realised through  small competitions that I had ability of a good speaker and a great sportsman thats why I decided to pursue my exploration in these fields
           </p>
         </div>
         <Eventcontainer />
